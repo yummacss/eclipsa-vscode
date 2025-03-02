@@ -1,8 +1,12 @@
 {
   "author": "Renildo Pereira",
-  "name": "yumma-css-midnight",
-  "displayName": "yumma-css-midnight",
   "description": "A theme based on Yumma CSS for VS Code.",
+  "displayName": "yumma-css-midnight",
+  "homepage": "https://yummacss.com",
+  "icon": "icon.png",
+  "license": "MIT",
+  "name": "yumma-css-midnight",
+  "publisher": "yumma-css",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
