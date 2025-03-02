@@ -14,6 +14,12 @@
   <a href="https://yummacss.com"><strong>Get this theme from the VS Code Marketplace. ↝</strong></a>
 </p>
 
+## Screenshots
+
+![css](https://i.imgur.com/Ru7Uw6Q.png)
+![html](https://i.imgur.com/dgYUHur.png)
+![js](https://i.imgur.com/M0XjxHd.png)
+
 ## Licensing
 
 MIT — Copyright (c) 2022–present
