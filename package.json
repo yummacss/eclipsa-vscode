@@ -1,7 +1,7 @@
 {
   "name": "yumma-css-midnight",
   "displayName": "yumma-css-midnight",
-  "description": "A theme based on Yumma CSS documentation.",
+  "description": "A theme based on Yumma CSS for VS Code.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
