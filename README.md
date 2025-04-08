@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://yummacss.com" target="_blank" target="_blank" rel="noopener noreferrer">
-    <img alt="Yumma CSS" src="/icon.png">
+    <img alt="Yumma CSS" src="./icon.png">
   </a>
 </div>
 
