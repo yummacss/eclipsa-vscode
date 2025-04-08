@@ -1,25 +1,36 @@
 <div align="center">
-  <a href="https://yummacss.com" target="_blank" target="_blank" rel="noopener noreferrer">
-    <img alt="Yumma CSS" src="./icon.png">
+  <a href="https://yummacss.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Yumma CSS" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icon.png" width="120">
   </a>
 </div>
 
-<div>
- <h2 align="center" >Yumma CSS Midnight</h2>
-</div>
+<h2 align="center">Yumma CSS Midnight</h2>
 
 <p align="center">
-  A theme based on Yumma CSS color scheme for VS Code.
+  A sleek, modern VS Code theme inspired by the Yumma CSS color system.
   <br>
-  <a href="https://yummacss.com"><strong>Get this theme from the VS Code Marketplace. ↝</strong></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight"><strong>Get it on the VS Code Marketplace</strong></a>
 </p>
 
-## Screenshots
+---
 
-![css](https://i.imgur.com/Ru7Uw6Q.png)
-![html](https://i.imgur.com/dgYUHur.png)
-![js](https://i.imgur.com/M0XjxHd.png)
+## ✨ Screenshots
 
-## Licensing
+![CSS](https://i.imgur.com/Ru7Uw6Q.png)
+![HTML](https://i.imgur.com/dgYUHur.png)
+![JS](https://i.imgur.com/M0XjxHd.png)
 
-MIT — Copyright (c) 2022–present
+---
+
+## 📦 Installation
+
+1. Open VS Code or Cursor
+2. Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> and run:
+3. Or manually install from `.vsix` via Command Palette
+
+---
+
+## ⚖️ License
+
+[MIT](./LICENSE) — © 2022–present  
+Crafted with ❤️ by [@yourname](https://github.com/yourusername)
