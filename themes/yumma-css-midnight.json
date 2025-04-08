@@ -17,7 +17,7 @@
     "foreground": "#bec6f2",
     "focusBorder": "#31365e",
     "selection.background": "#2d3151",
-    "scrollbar.shadow": "#bec6f2",
+    "scrollbar.shadow": "#00000000",
     "activityBar.foreground": "#c4c7d9",
     "activityBar.background": "#21243f",
     "activityBar.inactiveForeground": "#bec6f2",
