@@ -7,7 +7,7 @@
 <h2 align="center">Yumma CSS Midnight</h2>
 
 <p align="center">
-  A sleek, modern VS Code theme inspired by the Yumma CSS Docs color scheme.
+  A modern VS Code theme inspired by the Yumma CSS Docs color scheme.
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight"><strong>Get it on the VS Code Marketplace</strong></a>
 </p>
