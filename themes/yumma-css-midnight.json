@@ -74,7 +74,7 @@
     "menu.border": "#31365e",
     "button.background": "#2d3151",
     "button.foreground": "#ffffff",
-    "button.hoverBackground": "#21243f",
+    "button.hoverBackground": "#2d3151",
     "button.secondaryForeground": "#ffffff",
     "button.secondaryBackground": "#424662",
     "button.secondaryHoverBackground": "#45494e",
