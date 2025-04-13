@@ -1,18 +1,6 @@
 {
   "name": "yumma-css-midnight",
   "type": "dark",
-  "semanticHighlighting": true,
-  "semanticTokenColors": {
-    "enumMember": {
-      "foreground": "#93ddfb"
-    },
-    "variable.constant": {
-      "foreground": "#dda2f6"
-    },
-    "variable.defaultLibrary": {
-      "foreground": "#85b1e0"
-    }
-  },
   "colors": {
     "foreground": "#bec6f2",
     "focusBorder": "#31365e",
@@ -2104,5 +2092,17 @@
         "fontStyle": "italic"
       }
     }
-  ]
+  ],
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "enumMember": {
+      "foreground": "#93ddfb"
+    },
+    "variable.constant": {
+      "foreground": "#dda2f6"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#85b1e0"
+    }
+  }
 }
