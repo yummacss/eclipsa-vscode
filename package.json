@@ -2,6 +2,10 @@
   "author": "Renildo Pereira",
   "description": "A modern VS Code theme inspired by the Yumma CSS Docs color scheme and Ariake Dark theme.",
   "displayName": "Yumma CSS Midnight",
+  "galleryBanner": {
+    "color": "#252842",
+    "theme": "dark"
+  },
   "homepage": "https://yummacss.com",
   "icon": "icon.png",
   "license": "MIT",
