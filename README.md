@@ -14,17 +14,9 @@
 
 ---
 
-## ✨ Screenshots
+## ✨ Showcase
 
-### In CSS
-
-![CSS](https://i.imgur.com/Ru7Uw6Q.png)
-
-### In HTML
-![HTML](https://i.imgur.com/dgYUHur.png)
-
-### In Javascript
-![JS](https://i.imgur.com/M0XjxHd.png)
+![CSS](/assets/showcase.png)
 
 ---
 
@@ -38,5 +30,5 @@
 
 ## ⚖️ License
 
-[MIT](./LICENSE) — © 2022–present  
-Crafted with ❤️ by [@yourname](https://github.com/yourusername)
+[MIT](./LICENSE) — © 2025–present  
+Crafted with ❤️ by [@rrenildopereiraa](https://github.com/rrenildopereiraa)
