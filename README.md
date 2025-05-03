@@ -7,9 +7,9 @@
 <h2 align="center">Yumma CSS Midnight</h2>
 
 <p align="center">
-  A modern VS Code theme inspired by the <a href="https://www.yummacss.com/">Yumma CSS Docs</a> color scheme and the <a href="https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark">Ariake Dark theme</a>.
+  A theme inspired by <a href="https://www.yummacss.com/">yummacss.com</a> and <a href="https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark">Ariake Dark</a>.
   <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight"><strong>Get it on the VS Code Marketplace</strong></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight"><strong>→ Install Yumma CSS Midnight on VS Code</strong></a>
 </p>
 
 <p align="center">
@@ -18,13 +18,9 @@
   </a>
 </p>
 
----
-
 ## ✨ Showcase
 
-![Yumma CSS Midnight Theme](/assets/showcase.png)
-
----
+![Screenshot of Yumma CSS Midnight Theme in VS Code](/assets/showcase.png)
 
 ## 🎨 Color Palette
 
@@ -41,18 +37,6 @@
 | ![#ccaf75](https://place-hold.it/15/ccaf75/ccaf75?text=+) `#ccaf75` | Warning foreground                     |
 | ![#ff9499](https://place-hold.it/15/ff9499/ff9499?text=+) `#ff9499` | Error foreground                       |
 | ![#c1f0cc](https://place-hold.it/15/c1f0cc/c1f0cc?text=+) `#c1f0cc` | Added diff (insert background)         |
-
----
-
-## 📦 Manual installation
-
-1. Open **VS Code**
-2. Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
-3. Search for **Extensions: Install from VSIX...**
-4. Select the **Yumma CSS Midnight** theme
-5. Done! 🎉
-
----
 
 ## ⚖️ License
 
