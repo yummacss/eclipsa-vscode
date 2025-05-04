@@ -8,7 +8,7 @@
   },
   "homepage": "https://yummacss.com",
   "icon": "icon.png",
-  "keywords": ["vscode", "theme", "dark", "midnight", "yummacss", "css", "ariake"]
+  "keywords": ["vscode", "theme", "dark", "midnight", "yummacss", "css", "ariake"],
   "license": "MIT",
   "name": "yumma-css-midnight",
   "publisher": "yumma-css",
