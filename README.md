@@ -1,28 +1,20 @@
-<div align="center">
-  <a href="https://yummacss.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Yumma CSS" src="icon.png" width="120">
-  </a>
-</div>
+# [@yummacss/midnight](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
 
-<h2 align="center">Yumma CSS Midnight</h2>
+A theme inspired by [yummacss.com](https://www.yummacss.com) and [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark) for VS Code and Cursor.
 
-<p align="center">
-  A theme inspired by <a href="https://www.yummacss.com/">yummacss.com</a> and <a href="https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark">Ariake Dark</a>.
-  <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight"><strong>→ Install Yumma CSS Midnight on VS Code</strong></a>
-</p>
+[![VS Code Version](https://img.shields.io/visual-studio-marketplace/v/yumma-css.yumma-css-midnight?style=plastic&label=extension&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
+[![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/yumma-css.yumma-css-midnight?style=plastic&label=installs&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
 
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight">
-    <img alt="VS Code Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/yumma-css.yumma-css-midnight?color=4c566a&label=VS%20Code%20Marketplace&logo=visualstudiocode">
-  </a>
-</p>
 
-## ✨ Showcase
+## Preview
 
-![Screenshot of Yumma CSS Midnight Theme in VS Code](/assets/showcase.png)
+This is what the theme looks like.
 
-## 🎨 Color Palette
+![Cursor_screenshot](/assets/showcase.png)
+
+## Theme
+
+The default color palette of the theme.
 
 | Color                                                               | Description                            |
 | ------------------------------------------------------------------- | -------------------------------------- |
@@ -38,7 +30,6 @@
 | ![#ff9499](https://place-hold.it/15/ff9499/ff9499?text=+) `#ff9499` | Error foreground                       |
 | ![#c1f0cc](https://place-hold.it/15/c1f0cc/c1f0cc?text=+) `#c1f0cc` | Added diff (insert background)         |
 
-## ⚖️ License
+## License
 
-[MIT](./LICENSE) — © 2025–present  
-Created with ❤️ by [@rrenildopereiraa](https://github.com/rrenildopereiraa)
+This project is licensed under the [MIT License](LICENSE)
