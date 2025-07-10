@@ -5,7 +5,6 @@ A theme inspired by [yummacss.com](https://www.yummacss.com) and [Ariake Dark](h
 [![VS Code Version](https://img.shields.io/visual-studio-marketplace/v/yumma-css.yumma-css-midnight?style=plastic&label=extension&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
 [![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/yumma-css.yumma-css-midnight?style=plastic&label=installs&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
 
-
 ## Preview
 
 This is what the theme looks like.
