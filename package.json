@@ -1,28 +1,33 @@
 {
-  "author": "Renildo Pereira",
-  "description": "A modern VS Code theme inspired by the Yumma CSS Docs color scheme and Ariake Dark theme.",
+  "name": "yumma-css-midnight",
   "displayName": "Yumma CSS Midnight",
+  "publisher": "yumma-css",
+  "version": "0.0.1",
+  "description": "A theme inspired by the Yumma CSS color scheme for VS Code.",
+  "keywords": [
+    "dark",
+    "midnight",
+    "yummacss",
+    "ariake"
+  ],
+  "categories": [
+    "Themes"
+  ],
   "galleryBanner": {
     "color": "#252842",
     "theme": "dark"
   },
-  "homepage": "https://yummacss.com",
   "icon": "icon.png",
-  "keywords": ["vscode", "theme", "dark", "midnight", "yummacss", "css", "ariake"],
+  "homepage": "https://yummacss.com",
   "license": "MIT",
-  "name": "yumma-css-midnight",
-  "publisher": "yumma-css",
+  "author": "Renildo Pereira",
   "repository": {
     "type": "git",
     "url": "https://github.com/yumma-lib/yumma-css-midnight"
   },
-  "version": "0.0.1",
   "engines": {
     "vscode": ">=1.60.0"
   },
-  "categories": [
-    "Themes"
-  ],
   "contributes": {
     "themes": [
       {
