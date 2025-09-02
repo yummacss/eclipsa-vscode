@@ -16,8 +16,6 @@ All notable changes to the Yumma CSS Midnight will be documented in this file.
     <b>Breaking Changes</b>
 </summary>
 
-- Rename extension name to from `yumma-css-midnight` to `midnight`
-- Rename extension theme from `yumma-css-midnight` to `midnight` (Internal)
 - Rename extension title from `Yumma CSS Midnight` to `Midnight`
 
 <details open>
