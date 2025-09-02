@@ -2,7 +2,7 @@
 
 All notable changes to the Yumma CSS Midnight will be documented in this file.
 
-## Changelog for 0.1.0 🎉
+## Changelog for 0.0.2 🎉
 
 <details open>
 <summary>
