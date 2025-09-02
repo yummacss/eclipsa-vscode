@@ -1,9 +1,9 @@
 {
-  "name": "yumma-css-midnight",
+  "name": "Eclipsa",
   "type": "dark",
   "colors": {
     "foreground": "#bec6f2",
-    "focusBorder": "#31365e",
+    "focusBorder": "#{31365e}",
     "selection.background": "#2d3151",
     "scrollbar.shadow": "#00000000",
     "activityBar.foreground": "#c4c7d9",

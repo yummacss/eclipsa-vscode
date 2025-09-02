@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to the Yumma CSS Midnight will be documented in this file.
+All notable changes to the Eclipsa theme will be documented in this file.
 
-## Changelog for 0.0.2 🎉
+## Changelog for 1.0.0 🎉
 
 <details open>
 <summary>
@@ -16,7 +16,7 @@ All notable changes to the Yumma CSS Midnight will be documented in this file.
     <b>Breaking Changes</b>
 </summary>
 
-- Rename extension title from `Yumma CSS Midnight` to `Midnight`
+- Rename extension from `Yumma CSS Midnight` to `Eclipsa`
 
 <details open>
 <summary>
