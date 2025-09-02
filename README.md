@@ -1,9 +1,9 @@
-# [Eclipsa](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-eclipsa)
+# [Eclipsa](https://marketplace.visualstudio.com/items?itemName=yumma-css.eclipsa)
 
 A dark theme for VS Code and Cursor, inspired by Ariake Dark.
 
-[![VS Code Version](https://img.shields.io/visual-studio-marketplace/v/yumma-css.yumma-css-eclipsa?style=plastic&label=extension&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-eclipsa)
-[![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/yumma-css.yumma-css-eclipsa?style=plastic&label=installs&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-eclipsa)
+[![VS Code Version](https://img.shields.io/visual-studio-marketplace/v/yumma-css.eclipsa?style=plastic&label=extension&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.eclipsa)
+[![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/yumma-css.eclipsa?style=plastic&label=installs&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.eclipsa)
 
 ## Preview
 
