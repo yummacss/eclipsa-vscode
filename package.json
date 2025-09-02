@@ -1,9 +1,9 @@
 {
-  "name": "yumma-css-midnight",
-  "displayName": "Yumma CSS Midnight",
+  "name": "midnight",
+  "displayName": "Midnight",
   "publisher": "yumma-css",
-  "version": "0.0.1",
-  "description": "A theme inspired by the Yumma CSS color scheme for VS Code.",
+  "version": "0.0.2",
+  "description": "A dark theme for VS Code and Cursor, inspired by Ariake Dark.",
   "keywords": [
     "dark",
     "midnight",
@@ -23,7 +23,7 @@
   "author": "Renildo Pereira",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yumma-lib/yumma-css-midnight"
+    "url": "https://github.com/yumma-lib/midnight"
   },
   "engines": {
     "vscode": ">=1.60.0"
@@ -31,9 +31,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Yumma CSS Midnight",
+        "label": "Midnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/yumma-css-midnight.json"
+        "path": "./themes/midnight.json"
       }
     ]
   }

@@ -1,13 +1,13 @@
-# [@yummacss/midnight](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
+# [Midnight](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
 
-A theme inspired by [yummacss.com](https://www.yummacss.com) and [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark) for VS Code and Cursor.
+A dark theme for VS Code and Cursor, inspired by Ariake Dark.
 
 [![VS Code Version](https://img.shields.io/visual-studio-marketplace/v/yumma-css.yumma-css-midnight?style=plastic&label=extension&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
 [![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/yumma-css.yumma-css-midnight?style=plastic&label=installs&labelColor=eaedfc&color=413cb8)](https://marketplace.visualstudio.com/items?itemName=yumma-css.yumma-css-midnight)
 
 ## Preview
 
-This is what the theme looks like.
+This is what the theme looks like using Cursor:
 
 ![Cursor_screenshot](/assets/showcase.png)
 
@@ -31,4 +31,4 @@ The default color palette of the theme.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+Made by the [Yumma CSS Team](https://yummacss.com) under the [MIT License](LICENSE).
