@@ -2,7 +2,7 @@
   "name": "midnight",
   "displayName": "Midnight",
   "publisher": "yumma-css",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A dark theme for VS Code and Cursor, inspired by Ariake Dark.",
   "keywords": [
     "dark",
