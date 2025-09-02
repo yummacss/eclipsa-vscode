@@ -2,7 +2,7 @@
 
 All notable changes to the Eclipsa theme will be documented in this file.
 
-## Changelog for 1.0.0 🎉
+## Changelog for 0.0.1 🎉
 
 <details open>
 <summary>
@@ -11,14 +11,15 @@ All notable changes to the Eclipsa theme will be documented in this file.
 
 - None
 
-<details open>
+<details>
 <summary>
     <b>Breaking Changes</b>
 </summary>
 
-- Rename extension from `Yumma CSS Midnight` to `Eclipsa`
+- First release
+</details>
 
-<details open>
+<details>
 <summary>
     <b>Fixes</b>
 </summary>
