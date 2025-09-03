@@ -3,7 +3,7 @@
   "displayName": "Eclipsa",
   "publisher": "yumma-css",
   "version": "0.0.2",
-  "description": "A dark theme for VS Code and Cursor, inspired by Ariake Dark.",
+  "description": "A dark VS Code theme inspired by Ariake Dark.",
   "keywords": [
     "ariake",
     "color-theme",
