@@ -2,7 +2,7 @@
 
 All notable changes to the Eclipsa theme will be documented in this file.
 
-## Changelog for 0.0.3 🎉
+## Changelog for 0.0.4 🎉
 
 <details>
 <summary>
