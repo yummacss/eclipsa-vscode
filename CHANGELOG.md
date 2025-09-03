@@ -2,7 +2,7 @@
 
 All notable changes to the Eclipsa theme will be documented in this file.
 
-## Changelog for 0.0.2 🎉
+## Changelog for 0.0.3 🎉
 
 <details open>
 <summary>
@@ -16,7 +16,7 @@ All notable changes to the Eclipsa theme will be documented in this file.
     <b>Breaking Changes</b>
 </summary>
 
-- First release
+- None
 
 </details>
 
@@ -25,6 +25,6 @@ All notable changes to the Eclipsa theme will be documented in this file.
     <b>Fixes</b>
 </summary>
 
-- Fix `focusBorder` color
+- Update repository name to `eclipsa`
 
 </details>
