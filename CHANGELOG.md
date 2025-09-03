@@ -1,6 +1,8 @@
 # Release notes
 
-## Eclipsa v0.0.4 🎉
+All notable changes to the Eclipsa theme will be documented in this file.
+
+## [0.0.4] - Sep 3, 2025
 
 <details>
 <summary>
