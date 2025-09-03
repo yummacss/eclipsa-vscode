@@ -27,6 +27,9 @@
     "type": "git",
     "url": "https://github.com/yumma-lib/eclipsa"
   },
+  "scripts": {
+    "format": "prettier --write ."
+  },
   "engines": {
     "vscode": ">=1.60.0"
   },
@@ -38,5 +41,8 @@
         "path": "./themes/eclipsa.json"
       }
     ]
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
   }
 }
