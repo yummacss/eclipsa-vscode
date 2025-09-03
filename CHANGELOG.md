@@ -15,7 +15,7 @@ All notable changes to the Eclipsa theme will be documented in this file.
 
 <details open>
 <summary>
-    <b>Breaking Changes</b>
+    <b>Breaking changes</b>
 </summary>
 
 - Update `vscode` engine from `>=1.60.0` to `^1.103.0`
