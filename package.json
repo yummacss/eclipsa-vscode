@@ -23,6 +23,7 @@
   "homepage": "https://yummacss.com",
   "license": "MIT",
   "author": "Renildo Pereira",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/yumma-lib/eclipsa"

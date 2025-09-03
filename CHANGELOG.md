@@ -4,16 +4,9 @@ All notable changes to the Eclipsa theme will be documented in this file.
 
 ## Changelog for 0.0.3 🎉
 
-<details open>
-<summary>
-    <b>Features</b>
-</summary>
-
-- None
-
 <details>
 <summary>
-    <b>Breaking Changes</b>
+    <b>Features</b>
 </summary>
 
 - None
@@ -22,9 +15,18 @@ All notable changes to the Eclipsa theme will be documented in this file.
 
 <details>
 <summary>
+    <b>Breaking Changes</b>
+</summary>
+
+- Update `vscode` engnie from `>=1.60.0` to `^1.103.0`
+
+</details>
+
+<details>
+<summary>
     <b>Fixes</b>
 </summary>
 
-- Update repository name
+- None
 
 </details>
