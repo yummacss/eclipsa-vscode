@@ -23,7 +23,7 @@
   "author": "Renildo Pereira",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yumma-lib/midriake"
+    "url": "https://github.com/yumma-lib/eclipsa"
   },
   "engines": {
     "vscode": ">=1.60.0"
