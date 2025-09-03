@@ -2,23 +2,14 @@
 
 All notable changes to the Eclipsa theme will be documented in this file.
 
-## [0.0.4] - Sep 3, 2025
-
-<details>
-<summary>
-    <b>Features</b>
-</summary>
-
-- None
-
-</details>
+## [0.0.5] - Sep 3, 2025
 
 <details open>
 <summary>
     <b>Breaking changes</b>
 </summary>
 
-- Update `vscode` engine from `>=1.60.0` to `^1.103.0`
+- None
 
 </details>
 
@@ -27,6 +18,7 @@ All notable changes to the Eclipsa theme will be documented in this file.
     <b>Fixes</b>
 </summary>
 
-- None
+- Update `editorStickyScrollHover.background` from `#2a2d2e` to `#2a2d47`
+- Update `terminalStickyScrollHover.background` from `#2a2d2e` to `#2a2d47`
 
 </details>
