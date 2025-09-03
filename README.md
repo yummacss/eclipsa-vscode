@@ -9,7 +9,7 @@ A dark theme for VS Code and Cursor, inspired by Ariake Dark.
 
 This is what the theme looks like using Cursor:
 
-![Cursor_screenshot](/assets/showcase.png)
+![Cursor_screenshot](https://github.com/yumma-lib/eclipsa/blob/release/assets/showcase.png?raw=true)
 
 ## Theme
 
