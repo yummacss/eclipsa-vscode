@@ -25,6 +25,6 @@ All notable changes to the Eclipsa theme will be documented in this file.
     <b>Fixes</b>
 </summary>
 
-- Update repository name to `eclipsa`
+- Update repository name
 
 </details>
