@@ -7,7 +7,7 @@ A dark VS Code theme inspired by Ariake Dark.
 
 ## Preview
 
-This is what the theme looks like using Cursor:
+This is what the theme looks like
 
 ![Demo screenshot](demo.png)
 
@@ -24,4 +24,4 @@ The default color palette of the theme.
 
 ## License
 
-Made by the [Yumma CSS Team](https://yummacss.com) under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)
