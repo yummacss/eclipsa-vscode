@@ -1,49 +1,50 @@
 {
-  "name": "eclipsa",
-  "displayName": "Eclipsa",
-  "publisher": "yumma-css",
-  "version": "0.0.8",
-  "description": "A dark VS Code theme inspired by Ariake Dark.",
-  "keywords": [
-    "ariake",
-    "color-theme",
-    "dark",
-    "eclipsa",
-    "theme",
-    "yummacss"
-  ],
-  "categories": [
-    "Themes"
-  ],
-  "galleryBanner": {
-    "color": "#252842",
-    "theme": "dark"
-  },
-  "icon": "icon.png",
-  "homepage": "https://yummacss.com",
-  "license": "MIT",
-  "author": "Renildo Pereira",
-  "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yumma-lib/eclipsa"
-  },
-  "scripts": {
-    "format": "prettier --write ."
-  },
-  "engines": {
-    "vscode": "^1.103.0"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Eclipsa",
-        "uiTheme": "vs-dark",
-        "path": "./themes/eclipsa.json"
-      }
-    ]
-  },
-  "devDependencies": {
-    "prettier": "^3.6.2"
-  }
+	"name": "eclipsa",
+	"displayName": "Eclipsa",
+	"publisher": "yumma-css",
+	"version": "0.0.8",
+	"description": "A dark VS Code theme inspired by Ariake Dark.",
+	"keywords": [
+		"ariake",
+		"color-theme",
+		"dark",
+		"eclipsa",
+		"theme",
+		"yummacss"
+	],
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#252842",
+		"theme": "dark"
+	},
+	"icon": "icon.png",
+	"homepage": "https://yummacss.com",
+	"license": "MIT",
+	"author": "Renildo Pereira",
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yumma-lib/eclipsa"
+	},
+	"scripts": {
+		"lint": "biome check --write",
+		"build": "vsce package"
+	},
+	"engines": {
+		"vscode": "^1.103.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Eclipsa",
+				"uiTheme": "vs-dark",
+				"path": "./themes/eclipsa.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.3.9"
+	}
 }
