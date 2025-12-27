@@ -2,8 +2,8 @@
 	"name": "eclipsa",
 	"displayName": "Eclipsa",
 	"publisher": "yumma-css",
-	"version": "0.0.10",
-	"description": "A dark VS Code theme inspired by Ariake Dark.",
+	"version": "0.0.11",
+	"description": "A variant of the Ariake Dark theme.",
 	"keywords": [
 		"ariake",
 		"color-theme",
