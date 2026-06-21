@@ -2,7 +2,7 @@
 	"name": "eclipsa",
 	"displayName": "Eclipsa",
 	"publisher": "yumma-css",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A variant of the Ariake Dark theme.",
 	"keywords": [
 		"ariake",
@@ -30,7 +30,7 @@
 	},
 	"scripts": {
 		"lint": "biome check --write",
-		"build": "vsce package"
+		"build": "vsce package --no-dependencies"
 	},
 	"engines": {
 		"vscode": "^1.103.0"
@@ -45,6 +45,10 @@
 		]
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.3.10"
+		"@biomejs/biome": "2.3.10",
+		"@vscode/vsce": "^3.9.2"
+	},
+	"dependencies": {
+		"vsce": "^2.15.0"
 	}
 }
