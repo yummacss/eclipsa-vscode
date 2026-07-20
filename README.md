@@ -1,4 +1,4 @@
-# [Eclipsa](https://marketplace.visualstudio.com/items?itemName=yumma-css.eclipsa)
+# Eclipsa theme for VS Code.
 
 A variant of the Ariake Dark theme.
 
