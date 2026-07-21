@@ -1,13 +1,11 @@
-# [Eclipsa](https://marketplace.visualstudio.com/items?itemName=yumma-css.eclipsa)
+# Eclipsa
 
-A variant of the Ariake Dark theme.
+A dark theme for VS Code, based on Ariake Dark.
 
 ## Preview
-
-Here's a quick look at the Eclisa theme in VS Code.
 
 ![Demo screenshot](demo.png)
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
