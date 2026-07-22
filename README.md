@@ -1,6 +1,6 @@
 # Eclipsa
 
-A dark theme for VS Code, based on Ariake Dark.
+A dark theme based on Yumma CSS color scheme and Ariake.
 
 ## Preview
 
